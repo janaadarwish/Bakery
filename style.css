@@ -1,0 +1,67 @@
+.body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.icons{
+    height: 40px;
+}
+.logo{
+    height:80px;
+}
+.row{
+    height: 200px;
+}
+.img{
+    height:300px;
+}
+.intro{
+    background-image: url(assets/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    justify-content: center;
+    color: aliceblue;
+    height: 100%;
+    font-size: x-large;
+}
+nav a{
+    font-size: x-large;
+    padding: 10px;
+    color: aliceblue;
+}
+.second{
+    background-color: rgb(189, 157, 132);
+    border: 2px;
+    text-align: center;
+    display: block;
+}
+.third{
+    background-color: rgb(204, 147, 107);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    justify-content: center;
+    padding: 50px;
+}
+.tablee{
+    width: 100%; 
+    table-layout: fixed; 
+    border-collapse: collapse;
+    text-align: center;
+    font-size: large;
+    color: aliceblue;
+    background-color: rgb(54, 52, 52);
+    color: aliceblue
+}
+.cntct{
+    background-image: url(assets/mapdetails.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: aliceblue;
+}
+.last{
+    background-color: rgb(24, 23, 23);
+    text-align: center;
+    justify-content: center;
+    color: aliceblue;
+}
